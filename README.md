@@ -1,4 +1,4 @@
-## Hi, I'm Prisca👋
+## Hey, I'm Prisca👋
 🔭 I'm an Aspiring web developer
 
 ## 👀  About Me
@@ -7,12 +7,12 @@ I'm a Newbie in tech who is passionately diving headfirst into the the world of 
 - 👩🏻‍💻 I’m currently learning HTML, CSS and JavaScript, Coding in general
   
 - 💞️ I’m looking to collaborate on ...
-## - 📩 How to reach me
+##  📩 How to reach me
   priscasoluchi@gmail.com
   
     
 - 😄 Pronouns: ...
 
-## - ⚡ Fun fact  
+##  ⚡ Fun fact  
 I love listening to Podcast
 
