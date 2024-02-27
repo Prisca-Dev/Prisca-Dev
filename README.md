@@ -1,5 +1,4 @@
 ## Hey👋 I'm Prisca
-- welcome to my
 - 🔭 I'm an Aspiring Frontend Developer
   
 ## 👀  About Me
