@@ -17,5 +17,5 @@
 - 😄 Pronouns: She/her✨
 
 ##  ⚡ Fun fact  
-I love listening to Podcast
+- I love listening to Podcast
 
